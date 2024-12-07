@@ -20,7 +20,7 @@ Jwalit Panchal HTML webpage
 
 <h2 style="text-align: center; font-size: 20px;"> “Nothing in life is to be feared, it is only to be understood. Now is the time to understand more, so that we may fear less.” <br> -Madam Curie </h2>
 
-<p style="font-size: 20px; margin-left:1%; margin-right:5%">
+<p style="font-size: 20px; margin-left:1%; margin-right:5%; margin-bottom:5%">
     <img src="images/profile_bhub.jpg" style="width: 300px; height: 400px; float: Left; margin-right: 1%;">
     Hi! My name is Jwalit Nalin Panchal. I am a researcher in Physics. Currently pursuing 5 years Intgrated M.Sc. Physics from UM-DAE CBS, Mumbai. Braodly I am interested in Plasma-Physics: insability 
     in plasmas of hall-thrusters, laser-plasma interaction, fusion-plasma are some areas of interest. The increasing applications that plasmas can have in the future is promising and I would love
